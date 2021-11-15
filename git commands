@@ -1,0 +1,15 @@
+git init--Initialising the git repo.
+git config --global user.name "Name"
+git config --global user.email "email"
+created folder and files.
+git add -A --Add all new changes to local repo.
+git commit -m "Message for commit"-- Stage the changes.
+git log --all --decorate --graph---To see graph view of changes.
+
+Should be done after git init.Since I done this after a commit i have to do one more step to reset the identity of previous commit.
+ 
+(git config --global user.name "Name"
+git config --global user.email "email")
+
+git commit --amend --reset-author
+adbsjbjdbjb*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*fsmbfbsnbfnmdsfbm
